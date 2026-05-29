@@ -1,0 +1,9 @@
+Executive Summary
+
+This project focused on analyzing sales data using Python libraries such as Python, Pandas, Matplotlib, and Seaborn. The main objective was to clean, process, and visualize the dataset in order to identify sales trends, top-performing product categories, and important business insights.
+
+The project began with importing and exploring the dataset to understand its structure, missing values, and statistical information. Data cleaning techniques such as removing null values and duplicates were applied to improve data quality and ensure accurate analysis. Date columns were converted into datetime format to enable time-based analysis, including monthly and hourly sales trends.
+
+Several visualizations were created to better understand business performance. Monthly sales analysis helped identify periods with higher revenue generation, while product line analysis revealed the best-performing product categories. Additionally, a correlation heatmap was used to examine relationships between numerical variables within the dataset.
+
+Overall, the project successfully demonstrated the complete beginner-level data analysis workflow, including data cleaning, preprocessing, exploratory data analysis, visualization, and exporting cleaned data for future use. The findings from this project can help businesses make data-driven decisions to improve sales performance and understand customer purchasing patterns.
